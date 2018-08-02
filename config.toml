@@ -1,4 +1,4 @@
-baseURL = "https://molkaout.github.io/"
+baseURL = "https://molkaout.github.io/press"
 languageCode = "en-us"
 title = "MoveLikeJaggy"
 theme = "hugo-nuo"
