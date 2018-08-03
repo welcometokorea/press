@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>YES WE ARE. on Move Like Jaggy</title>
-    <link>https://molkaout.github.io/about/</link>
+    <link>https://molkaout.github.io/press/about/</link>
     <description>Recent content in YES WE ARE. on Move Like Jaggy</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="https://molkaout.github.io/about/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://molkaout.github.io/press/about/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
