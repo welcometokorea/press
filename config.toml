@@ -1,0 +1,50 @@
+baseURL = "http://welcometokorea.github.io/press"
+languageCode = "en-us"
+title = "Welcome To Korea"
+theme = "hugo-creative-portfolio-theme"
+
+[params]
+  # Style options: default (pink), blue, green, pink, red, sea, violet
+  # Use custom.css for your custom styling
+  style = "violet"
+  description = "STOP USING MOLKA (SPYCAM)"
+  copyright = "&copy;2018 WelcomeToKorea"
+  sidebarAbout = [
+    "Welcome To MolKarea",
+    "Stop using Molka (spycam)"
+  ]
+  # Contact page
+     # Since this template is static, the contact form uses www.formspree.io as a
+     # proxy. The form makes a POST request to their servers to send the actual
+     # email. Visitors can send up to a 1000 emails each month for free.
+     #
+     # What you need to do for the setup?
+     #
+     # - set your email address under 'email' below
+     # - upload the generated site to your server
+     # - send a dummy email yourself to confirm your account
+     # - click the confirm link in the email from www.formspree.io
+     # - you're done. Happy mailing!
+  email = "studentmolkacrime@gmail.com"
+
+  # Nav links in the side bar
+  [[params.navlinks]]
+  name = "Home"
+  url = "portfolio/"
+  home = true
+
+  [[params.navlinks]]
+  name = "About"
+  url = "about/"
+
+  [[params.navlinks]]
+  name = "Get in touch"
+  url = "contact/"
+
+  [params.social]
+  email         = "studentmolkacrime@gmail.com"
+  youtube       = "https://www.youtube.com/channel/UCJy_fqBzRtYefdxQVC_s1Kg"
+  twitter       = "https://twitter.com/team_WTK"
+  # facebook      = "full page or profile url in facebook"
+  # instagram     = "full profile url in instagram"
+  github        = "https://github.com/welcometokorea"
