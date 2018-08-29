@@ -3,35 +3,35 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://welcometokorea.github.io/press/categories/</loc>
+    <loc>https://welcometokorea.github.io/press/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://welcometokorea.github.io/press/contact/</loc>
+    <loc>https://welcometokorea.github.io/press/contact/</loc>
   </url>
   
   <url>
-    <loc>http://welcometokorea.github.io/press/portfolio/</loc>
+    <loc>https://welcometokorea.github.io/press/portfolio/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://welcometokorea.github.io/press/tags/</loc>
+    <loc>https://welcometokorea.github.io/press/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://welcometokorea.github.io/press/</loc>
+    <loc>https://welcometokorea.github.io/press/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://welcometokorea.github.io/press/portfolio/work1/</loc>
+    <loc>https://welcometokorea.github.io/press/portfolio/work1/</loc>
   </url>
   
   <url>
-    <loc>http://welcometokorea.github.io/press/about/</loc>
+    <loc>https://welcometokorea.github.io/press/about/</loc>
   </url>
   
 </urlset>

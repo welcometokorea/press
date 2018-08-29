@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Get in touch on Welcome To Korea</title>
-    <link>http://welcometokorea.github.io/press/contact/</link>
+    <link>https://welcometokorea.github.io/press/contact/</link>
     <description>Recent content in Get in touch on Welcome To Korea</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://welcometokorea.github.io/press/contact/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://welcometokorea.github.io/press/contact/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

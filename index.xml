@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Welcome To Korea</title>
-    <link>http://welcometokorea.github.io/press/</link>
+    <link>https://welcometokorea.github.io/press/</link>
     <description>Recent content on Welcome To Korea</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://welcometokorea.github.io/press/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://welcometokorea.github.io/press/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Welcome To Korea</title>
-      <link>http://welcometokorea.github.io/press/portfolio/work1/</link>
+      <link>https://welcometokorea.github.io/press/portfolio/work1/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://welcometokorea.github.io/press/portfolio/work1/</guid>
+      <guid>https://welcometokorea.github.io/press/portfolio/work1/</guid>
       <description>ft. MOLKA (Spycam)  Click this thumnail ! 
  
 It&amp;rsquo;s True Want to come to korea? if so, Whatever fun you had in korea, It’ll be on record FOREVER.</description>
