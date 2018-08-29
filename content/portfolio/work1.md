@@ -1,7 +1,7 @@
 +++
 showonlyimage = true
 draft = false
-image = "img/portfolio/1/follow.jpeg"
+image = "/img/portfolio/1/follow.jpeg"
 title = "Welcome To Korea"
 weight = 0
 +++
