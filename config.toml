@@ -1,4 +1,4 @@
-baseURL = "http://welcometokorea.github.io/press"
+baseURL = "https://welcometokorea.github.io/press"
 languageCode = "en-us"
 title = "Welcome To Korea"
 theme = "hugo-creative-portfolio-theme"
