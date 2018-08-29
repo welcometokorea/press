@@ -8,7 +8,7 @@ title = "YES WE ARE"
 ### SPEAK LOUD
 ### THINK HARD.
 
-<br><br><br>
+<br><br>
 ![This is us][1]
 </center>
 
